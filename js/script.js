@@ -28,4 +28,4 @@ function guessNumber(name, num) {
   }
 }
 
-console.log(guessNumber("John", num));
+console.log(guessNumber("User", num));
